@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz7-developer&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### tecnologias que eu uso no meu dia ou ja usei
+### TECNOLOGIAS QUE EU USO NO MEU DIA A DIA:
 
 <div style="display: inline_block"><br/>
 
